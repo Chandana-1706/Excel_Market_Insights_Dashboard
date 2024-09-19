@@ -28,3 +28,8 @@ This interactive dashboard provides comprehensive insights into a sample dataset
 
 **Conclusion:**
 This dashboard serves as a valuable tool for business analysts and decision-makers to track performance trends, uncover actionable insights, and drive strategic initiatives based on real-time data analysis. By leveraging the insights provided, organizations can enhance operational efficiency, optimize pricing strategies, and improve customer satisfaction.
+
+**Screenshot:**
+
+![image](https://github.com/user-attachments/assets/76e1a855-eaa7-4822-9f48-cb8bb7842b1c)
+
