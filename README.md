@@ -1,4 +1,4 @@
-### Dashboard Description for GitHub
+### Market Insights Dashboard
 
 **Overview:**
 This interactive dashboard provides comprehensive insights into a sample dataset that tracks sales orders across various markets, regions, customer segments, and product categories. It is designed to facilitate data-driven decision-making by visualizing key performance indicators (KPIs) such as sales, profit, shipping costs, and order priorities. 
